@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/my_portfolio/static/css/main.90e47757.css",
+    "main.js": "/my_portfolio/static/js/main.baedc287.js",
+    "static/js/787.128fc6e9.chunk.js": "/my_portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/profilePic.jpg": "/my_portfolio/static/media/profilePic.4085ac8ad3c719509a16.jpg",
+    "static/media/JsIntermediate.jpg": "/my_portfolio/static/media/JsIntermediate.fb0d312ef8ad838a70c3.jpg",
+    "static/media/jsBasic.jpg": "/my_portfolio/static/media/jsBasic.1bff84398889531b6594.jpg",
+    "static/media/Krushna_Shinde_Resume.jpg": "/my_portfolio/static/media/Krushna_Shinde_Resume.3ee6edce80c673e4ece6.jpg",
+    "static/media/myportfolio.png": "/my_portfolio/static/media/myportfolio.5037fa9ec829362b127c.png",
+    "static/media/Krushna_Shinde_Resume.pdf": "/my_portfolio/static/media/Krushna_Shinde_Resume.0074b3129f3dcde25036.pdf",
+    "static/media/resumeBuilder.png": "/my_portfolio/static/media/resumeBuilder.a4bdb79ebd543b75ba85.png",
+    "static/media/css.png": "/my_portfolio/static/media/css.6edb48b28b318b807cdf.png",
+    "static/media/html.png": "/my_portfolio/static/media/html.926a080600e2c8a8d4ee.png",
+    "static/media/dom.png": "/my_portfolio/static/media/dom.42e210bf6002dfee1f1f.png",
+    "static/media/jquery.png": "/my_portfolio/static/media/jquery.5358607e6f8118b7401c.png",
+    "static/media/react.png": "/my_portfolio/static/media/react.ad79ce41cd1fd8380612.png",
+    "static/media/home-main.svg": "/my_portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/my_portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/flashcard.png": "/my_portfolio/static/media/flashcard.f3590c608bca7079259b.png",
+    "static/media/home-bg.jpg": "/my_portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/my_portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/my_portfolio/index.html",
+    "main.90e47757.css.map": "/my_portfolio/static/css/main.90e47757.css.map",
+    "main.baedc287.js.map": "/my_portfolio/static/js/main.baedc287.js.map",
+    "787.128fc6e9.chunk.js.map": "/my_portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90e47757.css",
+    "static/js/main.baedc287.js"
+  ]
+}
