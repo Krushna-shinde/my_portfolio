@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/my_portfolio/static/css/main.90e47757.css",
-    "main.js": "/my_portfolio/static/js/main.baedc287.js",
+    "main.js": "/my_portfolio/static/js/main.b5da1f92.js",
     "static/js/787.128fc6e9.chunk.js": "/my_portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/profilePic.jpg": "/my_portfolio/static/media/profilePic.4085ac8ad3c719509a16.jpg",
     "static/media/JsIntermediate.jpg": "/my_portfolio/static/media/JsIntermediate.fb0d312ef8ad838a70c3.jpg",
     "static/media/jsBasic.jpg": "/my_portfolio/static/media/jsBasic.1bff84398889531b6594.jpg",
-    "static/media/Krushna_Shinde_Resume.jpg": "/my_portfolio/static/media/Krushna_Shinde_Resume.3ee6edce80c673e4ece6.jpg",
+    "static/media/Krushna_Shinde_Resume.pdf": "/my_portfolio/static/media/Krushna_Shinde_Resume.68f7fd4ff77ab2ea05ae.pdf",
     "static/media/myportfolio.png": "/my_portfolio/static/media/myportfolio.5037fa9ec829362b127c.png",
-    "static/media/Krushna_Shinde_Resume.pdf": "/my_portfolio/static/media/Krushna_Shinde_Resume.0074b3129f3dcde25036.pdf",
+    "static/media/Krushna_Shinde_Resume.jpg": "/my_portfolio/static/media/Krushna_Shinde_Resume.0fba9cb5a19ed51036ba.jpg",
     "static/media/resumeBuilder.png": "/my_portfolio/static/media/resumeBuilder.a4bdb79ebd543b75ba85.png",
     "static/media/css.png": "/my_portfolio/static/media/css.6edb48b28b318b807cdf.png",
     "static/media/html.png": "/my_portfolio/static/media/html.926a080600e2c8a8d4ee.png",
@@ -22,11 +22,11 @@
     "static/media/pre.svg": "/my_portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/my_portfolio/index.html",
     "main.90e47757.css.map": "/my_portfolio/static/css/main.90e47757.css.map",
-    "main.baedc287.js.map": "/my_portfolio/static/js/main.baedc287.js.map",
+    "main.b5da1f92.js.map": "/my_portfolio/static/js/main.b5da1f92.js.map",
     "787.128fc6e9.chunk.js.map": "/my_portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.90e47757.css",
-    "static/js/main.baedc287.js"
+    "static/js/main.b5da1f92.js"
   ]
 }
