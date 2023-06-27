@@ -47,8 +47,8 @@ function Projects() {
               isBlog={false}
               title="My Portfolio"
               description="This is my portfolio app. I make this this app using create-react-app. I design this app using bootstrap framework. This is responsive app. In this app i tried to explained myself in brief. I have added my resume and all information about me. I added my all projects or recent work also. "
-              // ghLink="https://github.com/panku-chavan/my-portfolio"
-              // demoLink="https://panku-chavan.github.io/my-portfolio/"
+              // ghLink="https://github.com/Krushna-shinde/my_portfolio"
+              // demoLink="https://krushna-shinde.github.io/my_portfolio/"
             />
           </Col>
 
